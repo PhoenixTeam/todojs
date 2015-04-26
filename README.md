@@ -3,5 +3,6 @@
 ## Features
 
 - [ ] parse repository files
-- [ ] generate todo file
-- [ ] clean files
+- [ ] option generate todo file
+- [ ] option to create github issue from todo file
+- [ ] option to clean parsed files
