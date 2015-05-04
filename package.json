@@ -1,0 +1,16 @@
+{
+  "name": "ToDoJs",
+  "version": "0.0.1",
+  "description": "Add to-do task directly on files",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "lodash": "^3.8.0",
+    "markdown": "^0.5.0"
+  },
+  "repository": "https://github.com/PhoenixTeam/todojs.git",
+  "author": "",
+  "bin": {
+    "todo": "./bin/todo"
+  },
+  "license": ""
+}
